@@ -11,7 +11,7 @@ $(function () {
   // function? How can DOM traversal be used to get the "hour-x" id of the
   // time-block containing the button that was clicked? How might the id be
   // useful when saving the description in local storage?
-  var timeBlockDiv=$('.time-block');
+  var timeBlockDiv=$('.time-block')
   timeBlockDiv.children().children('i').on('click', (event)=> {
     var element=$(event.target) 
     var scheduleText=element.parent().parent().children('textarea').val();
