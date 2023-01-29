@@ -10,11 +10,12 @@ When application is loaded  , it will display current date on the header. Each h
 Here is the link to published page https://getnetgit.github.io/Simple-Work-Day-Scheduler/ .
 
 
-![A user clicks on slots on the color-coded calendar and edits the events.](/asset/Simple-Work-Day-Scheduler.gif) shows the web application's appearance and functionality:
+![A user clicks on slots on the color-coded calendar and edits the events.](/asset/Simple-Work-Day-Scheduler.gif) 
 
-Simple Work Day Scheduler
+
+Simple Work Day Scheduler screenshot
 ![Portfolio picture for computer screan](./asset/Simple-Work-Day-Scheduler.png)
-![Portfolio picture for computer screan](./asset/media/Timed-Code-Quiz_QuestionsPC.png)
+
 
 ## Credits
 I used resorces in UW bootcamp modules and [https://developer.mozilla.org/en-US/], [https://www.w3schools.com/] was also helpful to do some research for this project. 
